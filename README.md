@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0881-boats-to-save-people](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0844-backspace-string-compare](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0018-4sum) |
 | [0881-boats-to-save-people](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Timsort
 |  |
