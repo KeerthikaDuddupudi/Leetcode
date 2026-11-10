@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1732-find-the-highest-altitude](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,4 +75,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1732-find-the-highest-altitude](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
