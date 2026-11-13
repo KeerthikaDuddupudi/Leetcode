@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Pigeonhole Principle
@@ -133,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
