@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0283-move-zeroes) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
