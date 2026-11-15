@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1732-find-the-highest-altitude](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Newton's Method
 |  |
 | ------- |
