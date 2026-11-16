@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0605-can-place-flowers](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1710-maximum-units-on-a-truck](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
