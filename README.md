@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1710-maximum-units-on-a-truck](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
@@ -58,12 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0860-lemonade-change](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1710-maximum-units-on-a-truck](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0075-sort-colors) |
 | [0881-boats-to-save-people](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1710-maximum-units-on-a-truck](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Timsort
 |  |
 | ------- |
