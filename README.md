@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0605-can-place-flowers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0605-can-place-flowers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1710-maximum-units-on-a-truck](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0075-sort-colors) |
 | [0435-non-overlapping-intervals](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0646-maximum-length-of-pair-chain](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1710-maximum-units-on-a-truck](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0918-maximum-sum-circular-subarray](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Stack
 |  |
@@ -198,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
