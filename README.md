@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0402-remove-k-digits) |
+| [0763-partition-labels](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0283-move-zeroes) |
+| [0763-partition-labels](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Greedy
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0763-partition-labels](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1710-maximum-units-on-a-truck](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0763-partition-labels](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0763-partition-labels) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
