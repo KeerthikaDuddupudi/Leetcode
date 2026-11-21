@@ -1,7 +1,7 @@
 class Solution {
     public boolean isNStraightHand(int[] hand, int groupSize) {
         TreeMap<Integer,Integer>map=new TreeMap<>();
-        Arrays.sort(hand);
+        
         if(hand.length%groupSize!=0) return false;
         for(int i=0;i<hand.length;i++){
             map.put(hand[i],map.getOrDefault(hand[i],0)+1);
