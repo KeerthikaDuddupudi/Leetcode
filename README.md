@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0846-hand-of-straights](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0763-partition-labels](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0763-partition-labels) |
+| [0846-hand-of-straights](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1710-maximum-units-on-a-truck](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0846-hand-of-straights](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1710-maximum-units-on-a-truck](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0763-partition-labels) |
+| [0846-hand-of-straights](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0846-hand-of-straights) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
