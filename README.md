@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0321-create-maximum-number](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0321-create-maximum-number) |
 | [0410-split-array-largest-sum](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0283-move-zeroes) |
+| [0321-create-maximum-number](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0321-create-maximum-number) |
 | [0763-partition-labels](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0135-candy) |
+| [0321-create-maximum-number](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -119,12 +122,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0321-create-maximum-number](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0321-create-maximum-number](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0402-remove-k-digits) |
 ## Simulation
 |  |
