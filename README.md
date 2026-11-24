@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0075-sort-colors) |
 | [0435-non-overlapping-intervals](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0846-hand-of-straights](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0846-hand-of-straights) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0502-ipo](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0621-task-scheduler) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Counting
