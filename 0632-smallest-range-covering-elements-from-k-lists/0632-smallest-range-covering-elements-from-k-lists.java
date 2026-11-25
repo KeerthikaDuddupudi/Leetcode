@@ -17,7 +17,7 @@ class Solution {
             max = Math.max(max, val);
         }
 
-        int start = 1;
+        int start = 0;
         int end = Integer.MAX_VALUE;
 
         while (pq.size() == nums.size()) {
