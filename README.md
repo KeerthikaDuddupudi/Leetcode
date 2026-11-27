@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0402-remove-k-digits) |
 | [0763-partition-labels](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1208-get-equal-substrings-within-budget](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1208-get-equal-substrings-within-budget](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1109-corporate-flight-bookings](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1109-corporate-flight-bookings) |
+| [1208-get-equal-substrings-within-budget](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1208-get-equal-substrings-within-budget](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KeerthikaDuddupudi/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Newton's Method
